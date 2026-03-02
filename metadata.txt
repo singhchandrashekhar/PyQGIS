@@ -1,0 +1,17 @@
+[general]
+name=OFC 1m Offset
+qgisMinimumVersion=3.22
+description=Creates 1 meter offset lines from OFC layer using offset_pt guidance fields.
+version=1.0.0
+author=Codex Assistant
+email=na@example.com
+about=Select OFC and offset_pt layers and generate 1 meter offset lines in EPSG:4326 saved next to OFC source file.
+category=Vector
+icon=
+experimental=False
+deprecated=False
+
+[help]
+repository=
+tracker=
+homepage=
